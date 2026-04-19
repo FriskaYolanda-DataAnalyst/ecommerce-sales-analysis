@@ -20,7 +20,7 @@ Berdasarkan eksplorasi SQL (cek file `.sql` di repo ini):
 
 ## 4. Dashboard Visualization
 Akses dashboard interaktif melalui link di bawah ini:
-👉 **[View Dashboard on Tableau Public]([LINK_TABLEAU(https://public.tableau.com/views/Book1_17764253413500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+👉 **[View Dashboard on Tableau Public]([LINK_TABLEAU](https://public.tableau.com/views/Book1_17764253413500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 ## 5. Strategic Recommendations
 - **Retention Program:** Fokus pada program loyalitas untuk segmen *High-Value Customer*.
